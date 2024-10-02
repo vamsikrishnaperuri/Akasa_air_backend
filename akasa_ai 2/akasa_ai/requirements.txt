@@ -1,0 +1,8 @@
+# App
+# flask
+fastapi
+uvicorn
+jinja2
+starlette
+pymongo
+google-generativeai
